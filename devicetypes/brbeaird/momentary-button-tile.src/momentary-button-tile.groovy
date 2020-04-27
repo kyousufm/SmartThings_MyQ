@@ -17,7 +17,7 @@
  *  Date: 2013-05-01
  */
 metadata {
-	definition (name: "Momentary Button Tile", namespace: "smartthings", author: "SmartThings") {
+	definition (name: "Momentary Button Tile", namespace: "brbeaird", author: "SmartThings") {
 		capability "Actuator"
 		capability "Switch"
 		capability "Momentary"
